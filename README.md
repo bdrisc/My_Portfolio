@@ -10,7 +10,7 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [CCBL Catch Probability Model](CatchProbability.ipynb)      | Developed a model to estimate catch probability on batted balls using Cape Cod Baseball League data. |
 | [CCBL Stuff+ Model](Stuff%2B%20Model.ipynb)                 | Built a model to evaluate individual pitch quality using pitch characteristics.                      |
-| [Location+ Model](Location%2B.ipynb)                        | Created a model designed to quantify pitch location quality and effectiveness.                       |
+| [Location+ Model](Location%2B_v2.ipynb)                     | Created a model designed to quantify pitch location quality and effectiveness.                       |
 | [Swing Models](Swing_Models.ipynb)                          | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions.                             |
 | [Exit Velocity and Launch Angle Model](Predict_EV_LA.ipynb) | Built predictive models for batted ball exit velocity and launch angle.                              |
 | [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py)     | Created a Streamlit dashboard to organize and display player performance data for coaches.           |
