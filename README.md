@@ -26,7 +26,6 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 ## Pitching and Player Development
 
 * [Optimal Pitch Model](Optimal_Pitch_Model.ipynb)
-* [Pitch Sequencing Optimization](Pitch_Sequencing_Optimization.ipynb)
 * [Pitcher Kinematic Sequencing Analysis](Kinematic_Sequencing_Velocity.ipynb)
 * [Trunk Stability and Release Point Consistency](trunk_stability_release.ipynb)
 * [Pitch Data Flask Application](pitch_app.py)
