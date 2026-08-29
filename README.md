@@ -12,7 +12,7 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 | [CCBL Stuff+ Model](Stuff%2B%20Model.ipynb)                 | Built a model to evaluate individual pitch quality using pitch characteristics.                      |
 | [Location+ Model](Location%2B_v2.ipynb)                     | Created a model designed to quantify pitch location quality and effectiveness.                       |
 | [Swing Models](Swing_Models.ipynb)                          | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions.                             |
-| [Exit Velocity and Launch Angle Model](Predict_EV_LA.ipynb) | Built predictive models for batted ball exit velocity and launch angle.                              |
+| [Batted Ball Predictability Model](Batted_Ball_Predictability.ipynb) | Analyzed how pitch and swing data shape exit velocity and launch angle.                     |
 | [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py)     | Created a Streamlit dashboard to organize and display player performance data for coaches.           |
 
 ## Scouting and Player Evaluation
