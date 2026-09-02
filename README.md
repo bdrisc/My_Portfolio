@@ -6,15 +6,14 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 
 ## Featured Projects
 
-| Project                                                     | Description                                                                                          |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [CCBL Catch Probability Model](CatchProbability.ipynb)      | Developed a model to estimate catch probability on batted balls using Cape Cod Baseball League data. |
-| [CCBL Stuff+ Model](https://github.com/bdrisc/ccbl-stuff-plus) | Built and validated a location-neutral pitch-quality model using CCBL TrackMan data. 
-  |
-| [Location+ Model](Location%2B_v2.ipynb)                     | Created a model designed to quantify pitch location quality and effectiveness.                       |
-| [Swing Models](Swing_Models.ipynb)                          | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions.                             |
-| [Batted Ball Predictability Model](Batted_Ball_Predictability.ipynb) | Analyzed how pitch and swing data shape exit velocity and launch angle.                     |
-| [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py)     | Created a Streamlit dashboard to organize and display player performance data for coaches.           |
+| Project | Description |
+|---|---|
+| [CCBL Catch Probability Model](CatchProbability.ipynb) | Developed a model to estimate catch probability on batted balls using Cape Cod Baseball League data. |
+| [CCBL Stuff+ Model](https://github.com/bdrisc/ccbl-stuff-plus) | Built and validated a location-neutral pitch-quality model using CCBL TrackMan data. |
+| [Location+ Model](Location%2B_v2.ipynb) | Created a model designed to quantify pitch location quality and effectiveness. |
+| [Swing Models](Swing_Models.ipynb) | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions. |
+| [Batted Ball Predictability Model](Batted_Ball_Predictability.ipynb) | Analyzed how pitch and swing data shape exit velocity and launch angle. |
+| [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py) | Created a Streamlit dashboard to organize and display player performance data for coaches. |
 
 ## Scouting and Player Evaluation
 
