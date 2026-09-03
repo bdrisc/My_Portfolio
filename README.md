@@ -21,7 +21,7 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 * [Hitter Scouting Graphics](Hitter_Scout.ipynb)
 * [Pitcher Scouting Graphics](Pitcher_Scout.ipynb)
 * [Opponent Pitcher Scouting Graphics](Opp_Pitcher_Scout_Graphics.ipynb)
-* [Statcast Hitter Splits](Statcast_Hitter_Splits.ipynb)
+* [Statcast Hitter Report](Statcast_Hitter_Report.ipynb)
 
 ## Pitching and Player Development
 
